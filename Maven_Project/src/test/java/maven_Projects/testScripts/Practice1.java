@@ -9,8 +9,8 @@ public void practice1() {
 }
 
 @Test
-public void practice3() {
-	System.out.println("Test3--> Test3");
+public void practice2() {
+	System.out.println("Test2--> Test2");
 }
 
 }
