@@ -15,5 +15,6 @@ public void practice2() {
 	System.out.println("Test3");
 	
 }
+System.out.println("Test4");
 
 }
